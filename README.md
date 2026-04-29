@@ -18,3 +18,32 @@ Clone o repositório:
 ```bash
 git clone https://github.com/camilaotto/python_test
 cd python_test
+
+
+
+🎯 Objetivo do projeto
+Reforçar lógica de programação e fundamentos de QA através de exercícios simples em Python.
+
+🧪 Resultado
+Implementação de funções básicas, testes simples e manipulação de dados para consolidar conceitos essenciais.
+
+🛠 Ferramentas utilizadas
+Python
+
+Git & GitHub
+
+📚 O que aprendi
+Estruturar funções e scripts
+
+Pensamento lógico aplicado ao QA
+
+Criar pequenos testes e validar comportamentos
+
+Organizar código de forma clara
+
+🚧 Melhorias futuras
+Adicionar novos exercícios
+
+Criar testes automatizados com Pytest
+
+Melhorar documentação e exemplos
